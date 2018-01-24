@@ -2,10 +2,9 @@
 
 int main()
 {
-	char chaine1[100] = "yo";
-	char chaine2[100] = "ya";
-	printf("%s",chaine1);
-	strcat(chaine1,chaine2);
-	printf("%s",chaine1);
+
+	//printf("%d et %d", decomposition('z')->x, decomposition('z')->y); OK
+	char* texte = "J'ai reussi a coder un brainfuck translator en C mwahaha";
+	textToBF(texte);
 	return 0;
 }
