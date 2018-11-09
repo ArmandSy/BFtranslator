@@ -16,6 +16,7 @@ void textToBF(char* texte)
 	FILE* fichier;
 	fichier = fopen("BF.txt","wb");
 	while(texte[i] != '\0')
+	fwrite(">", sizeof(char), 1, fichier);
 	{
 		couple* Couple = decomposition(texte[i]);
 		for(k = 0; k<Couple->x; k++)
