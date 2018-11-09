@@ -9,9 +9,7 @@ Usage :
 - Insert the string you want to convert in the main.c file
 - Compile with gcc using "make" command once in the folder of the source code
 - Run by doing ./PROJET in the bash
-- Your Brainfuck should be written in BF.txt file
-
-StackEdit stores your files in your browser, which means all your files are automatically saved locally and are accessible **offline!**
+- Your Brainfuck should be written in the BF.txt file
 
 ## Français
 
