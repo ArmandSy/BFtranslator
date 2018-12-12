@@ -13,8 +13,6 @@ Usage :
 
 ## Français
 
-A program written in C language which goal is to convert a given string into a brainfuck program that outputs the string.
-
 Un court programme écrit en langage C dont le but est de convertir une chaîne de caractère donnée en un programme brainfuck dont la sortie est la chaîne de caractère en question. C'est un programme qui permet donc d'écrire ce que l'on souhaite en brainfuck (caractères ASCII seulement).
 
 Utilisation:
